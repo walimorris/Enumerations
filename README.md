@@ -1,0 +1,2 @@
+# Enumerations
+Enumeration Type Practice
