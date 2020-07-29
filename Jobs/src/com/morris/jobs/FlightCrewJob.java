@@ -14,5 +14,4 @@ public enum FlightCrewJob {
     public String getTitle() {
         return title;
     }
-
 }
